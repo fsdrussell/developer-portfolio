@@ -1,9 +1,46 @@
-*{
-margin: 0; 
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
 }
-font-family: 'Open Sans', sans-serif
-/* header and nagigation title */
+
+.text-primary {
+    color: #dd501d;
+}
+
 
 .nav-title {
-    font
+    font-size: 40px;
+    font-weight: 700px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+
+nav li {
+    list-style: none;
+    margin-left: 50px;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+}
+
+.btn-orange {
+    color: #ffffff;
+    font-weight: 700px;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 36px;
+    height: 64px;
+    border-radius: 5px;
+    background: #dd501d;
+
+
+
+
+
 }
