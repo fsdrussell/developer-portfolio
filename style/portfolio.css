@@ -28,7 +28,7 @@ nav ul {
     display: flex;
     align-items: center;
 }
-
+.header
 .btn-orange {
     color: #ffffff;
     font-weight: 700px;
@@ -38,9 +38,33 @@ nav ul {
     height: 64px;
     border-radius: 5px;
     background: #dd501d;
+}
+
+.banner {
+    display: flex;
+    margin: 0 200px;
+    align-items: center;
+}
 
 
+.banner-title {
+    font-weight: 700;
+    font-size: 85px;
+}
 
+.banner-subtitle {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 61px;
 
+}
+
+.banner-description {
+    color:#757575;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 30px;
 
 }
