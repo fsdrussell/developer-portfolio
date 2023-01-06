@@ -28,7 +28,10 @@ nav ul {
     display: flex;
     align-items: center;
 }
-.header
+.header{
+background-color: #FFF8F3;;
+
+}
 .btn-orange {
     color: #ffffff;
     font-weight: 700px;
