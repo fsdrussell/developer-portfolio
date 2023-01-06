@@ -6,8 +6,6 @@
 .text-primary {
     color: #dd501d;
 }
-
-
 .nav-title {
     font-size: 40px;
     font-weight: 700px;
@@ -23,16 +21,9 @@ nav li {
     list-style: none;
     margin-left: 50px;
 }
-.header{
-background-color: #FFF8F3;
-background-image: url('../images/header_bg.png');
-}
 nav ul {
     display: flex;
     align-items: center;
-}
-.header{
-background-color: #FFF8F3;
 
 }
 .btn-orange {
